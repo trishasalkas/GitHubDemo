@@ -37,8 +37,9 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New RadioButton"
-            android:id="@+id/radioButton"/>
+            android:text="Push Me!"
+            android:id="@+id/radioButton"
+            android:checked="false"/>
     </TableRow>
 
 </RelativeLayout>
